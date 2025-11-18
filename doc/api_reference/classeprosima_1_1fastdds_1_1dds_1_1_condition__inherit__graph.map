@@ -1,0 +1,9 @@
+<map id="Condition" name="Condition">
+<area shape="rect" id="Node000001" title="The Condition class is the root base class for all the conditions that may be attached to a WaitSet." alt="" coords="169,5,253,31"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_guard_condition.html" title="The GuardCondition class is a specific Condition whose trigger_value is completely under the control ..." alt="" coords="5,79,128,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,39,91,81,89,76,174,34"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1dds_1_1_read_condition.html" title="A Condition specifically dedicated to read operations and attached to one DataReader." alt="" coords="152,79,269,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,44,213,79,208,79,208,44"/>
+<area shape="rect" id="Node000004" href="$classeprosima_1_1fastdds_1_1dds_1_1_status_condition.html" title="The StatusCondition class is a specific Condition that is associated with each Entity." alt="" coords="293,79,419,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="247,34,333,76,331,81,245,39"/>
+</map>

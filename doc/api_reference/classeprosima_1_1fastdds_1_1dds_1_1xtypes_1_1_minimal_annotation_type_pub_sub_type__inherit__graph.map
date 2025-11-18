@@ -1,0 +1,5 @@
+<map id="MinimalAnnotationTypePubSubType" name="MinimalAnnotationTypePubSubType">
+<area shape="rect" id="Node000001" title="This class represents the TopicDataType of the type MinimalAnnotationType defined by the user in the ..." alt="" coords="5,79,205,119"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_topic_data_type.html" title="Class TopicDataType used to provide the DomainRTPSParticipant with the methods to serialize,..." alt="" coords="47,5,163,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,44,108,79,103,79,103,44"/>
+</map>

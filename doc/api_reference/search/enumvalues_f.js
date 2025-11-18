@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['read_5fsample_5fstate_0',['READ_SAMPLE_STATE',['../namespaceeprosima_1_1fastdds_1_1dds.html#ab2adcd4d2221d050ba28e1224b9ae3d2ad588b0ca101b0649ac73bd5d613b4101',1,'eprosima::fastdds::dds']]],
+  ['reader_1',['READER',['../namespaceeprosima_1_1fastdds_1_1rtps.html#a78cea4e085868c7e037e09dbc0a5e9f2a59b08a92a4278fb506399a5944d06124',1,'eprosima::fastdds::rtps']]],
+  ['readerdatalifecycle_5fqos_5fpolicy_5fid_2',['READERDATALIFECYCLE_QOS_POLICY_ID',['../namespaceeprosima_1_1fastdds_1_1dds.html#a007637290f4b916ff579b948ae7ba4d7a6edd67bb96c2b85d6db268f9b6fd3224',1,'eprosima::fastdds::dds']]],
+  ['readerresourcelimits_5fqos_5fpolicy_5fid_3',['READERRESOURCELIMITS_QOS_POLICY_ID',['../namespaceeprosima_1_1fastdds_1_1dds.html#a007637290f4b916ff579b948ae7ba4d7ac316c5a526455ec2aaf16c5b011945a5',1,'eprosima::fastdds::dds']]],
+  ['rejected_5fby_5finstances_5flimit_4',['REJECTED_BY_INSTANCES_LIMIT',['../namespaceeprosima_1_1fastdds_1_1dds.html#a3e60ce491f9f070abaf883501018aa1fafa81b6e0f77368ec5587d7c756252ea1',1,'eprosima::fastdds::dds']]],
+  ['rejected_5fby_5fsamples_5flimit_5',['REJECTED_BY_SAMPLES_LIMIT',['../namespaceeprosima_1_1fastdds_1_1dds.html#a3e60ce491f9f070abaf883501018aa1fafdfc4bfbe7a0aa251aa96dd2704b3cdd',1,'eprosima::fastdds::dds']]],
+  ['rejected_5fby_5fsamples_5fper_5finstance_5flimit_6',['REJECTED_BY_SAMPLES_PER_INSTANCE_LIMIT',['../namespaceeprosima_1_1fastdds_1_1dds.html#a3e60ce491f9f070abaf883501018aa1fadcf8500fd94911ffde61e12517c443eb',1,'eprosima::fastdds::dds']]],
+  ['reliability_5fqos_5fpolicy_5fid_7',['RELIABILITY_QOS_POLICY_ID',['../namespaceeprosima_1_1fastdds_1_1dds.html#a007637290f4b916ff579b948ae7ba4d7a0fdd87f8cd32189f2cf62504c993d89c',1,'eprosima::fastdds::dds']]],
+  ['reliable_8',['RELIABLE',['../namespaceeprosima_1_1fastdds_1_1rtps.html#a367af915bdda2d6f964f4f049066f992abc6ba98e9404532481e43eea39731929',1,'eprosima::fastdds::rtps']]],
+  ['reliable_5freliability_5fqos_9',['RELIABLE_RELIABILITY_QOS',['../namespaceeprosima_1_1fastdds_1_1dds.html#a5939a45ee48eff050541ec853ba18fe7a4c3da736b9f52c1423aa7e2aa9162990',1,'eprosima::fastdds::dds']]],
+  ['remote_5fex_5finvalid_5fargument_10',['REMOTE_EX_INVALID_ARGUMENT',['../namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#a06bd9971b90eac932d9ea22fe5c1991aaefaa377c147b8a5380790163e6a2473d',1,'eprosima::fastdds::dds::rpc']]],
+  ['remote_5fex_5fok_11',['REMOTE_EX_OK',['../namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#a06bd9971b90eac932d9ea22fe5c1991aa906269d0dad1044e21e75cdffc6cca04',1,'eprosima::fastdds::dds::rpc']]],
+  ['remote_5fex_5fout_5fof_5fresources_12',['REMOTE_EX_OUT_OF_RESOURCES',['../namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#a06bd9971b90eac932d9ea22fe5c1991aa89c0120f98946baedb3ad8bd627f37a7',1,'eprosima::fastdds::dds::rpc']]],
+  ['remote_5fex_5funknown_5fexception_13',['REMOTE_EX_UNKNOWN_EXCEPTION',['../namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#a06bd9971b90eac932d9ea22fe5c1991aa24af3d7a637f07209ae2fb5a8bd9b1ce',1,'eprosima::fastdds::dds::rpc']]],
+  ['remote_5fex_5funknown_5foperation_14',['REMOTE_EX_UNKNOWN_OPERATION',['../namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#a06bd9971b90eac932d9ea22fe5c1991aa98d1d766051c33398411457f4dfcc3ad',1,'eprosima::fastdds::dds::rpc']]],
+  ['remote_5fex_5funsupported_15',['REMOTE_EX_UNSUPPORTED',['../namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#a06bd9971b90eac932d9ea22fe5c1991aac1b7fe1c67d7ef2972fc385331cdfcbb',1,'eprosima::fastdds::dds::rpc']]],
+  ['removed_5fmatching_16',['REMOVED_MATCHING',['../namespaceeprosima_1_1fastdds_1_1rtps.html#a46673f05b59e42646c8fc581135c791ca28e6e18ef83be0c31c1251576535c3f2',1,'eprosima::fastdds::rtps']]],
+  ['removed_5fparticipant_17',['REMOVED_PARTICIPANT',['../namespaceeprosima_1_1fastdds_1_1rtps.html#a4e27913cb9f9075da92c83c59fe23706a08de748c173aac60e8c830ab62f28835',1,'eprosima::fastdds::rtps']]],
+  ['removed_5freader_18',['REMOVED_READER',['../namespaceeprosima_1_1fastdds_1_1rtps.html#a68a752ec92a13ec098fa26dd5d7c768da4c6f21329166c37f66242fa3727a2f53',1,'eprosima::fastdds::rtps']]],
+  ['removed_5fwriter_19',['REMOVED_WRITER',['../namespaceeprosima_1_1fastdds_1_1rtps.html#a252a3829d649059be501736f038b15d3a48525b81cd836e4726c03f6bce2bbba8',1,'eprosima::fastdds::rtps']]],
+  ['resourcelimits_5fqos_5fpolicy_5fid_20',['RESOURCELIMITS_QOS_POLICY_ID',['../namespaceeprosima_1_1fastdds_1_1dds.html#a007637290f4b916ff579b948ae7ba4d7a0328cc8e93de042e89501a4e339a4654',1,'eprosima::fastdds::dds']]],
+  ['round_5frobin_21',['ROUND_ROBIN',['../namespaceeprosima_1_1fastdds_1_1rtps.html#ade6b19c4a20cd0f4ccd59d52601de9e6a1ebd8dbf8c34e255f5cbf28f35860b71',1,'eprosima::fastdds::rtps']]],
+  ['rtpsendpoint_5fqos_5fpolicy_5fid_22',['RTPSENDPOINT_QOS_POLICY_ID',['../namespaceeprosima_1_1fastdds_1_1dds.html#a007637290f4b916ff579b948ae7ba4d7a766bcd24ce0c7b71d49793df07f37f7a',1,'eprosima::fastdds::dds']]],
+  ['rtpsreliablereader_5fqos_5fpolicy_5fid_23',['RTPSRELIABLEREADER_QOS_POLICY_ID',['../namespaceeprosima_1_1fastdds_1_1dds.html#a007637290f4b916ff579b948ae7ba4d7a20757decb36426b157544b595adcef01',1,'eprosima::fastdds::dds']]],
+  ['rtpsreliablewriter_5fqos_5fpolicy_5fid_24',['RTPSRELIABLEWRITER_QOS_POLICY_ID',['../namespaceeprosima_1_1fastdds_1_1dds.html#a007637290f4b916ff579b948ae7ba4d7a76e221b5baf9ac3422f53fc507a0496a',1,'eprosima::fastdds::dds']]]
+];

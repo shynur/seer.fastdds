@@ -1,0 +1,26 @@
+var classeprosima_1_1fastdds_1_1rtps_1_1_reader_history =
+[
+    [ "ReaderHistory", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#a209834add026c5a974407432a7f8dda6", null ],
+    [ "~ReaderHistory", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#ae9ec5cf6073e942c0f9a9c0917538972", null ],
+    [ "add_change", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#a6f21ea022bd9dc95542d734ab9a5f181", null ],
+    [ "can_change_be_added_nts", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#af8fe0f20d24c4f50186af1a97a8336ea", null ],
+    [ "completed_change", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#adbd5f4b6679458c8d43ad4333fc18e50", null ],
+    [ "completed_change", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#a52832319810560040bcc22d3bf4c01ff", null ],
+    [ "do_release_cache", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#a9aed38b75f7f34d7d312ce85ca4c4405", null ],
+    [ "get_min_change_from", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#a775c3fb350e9123790b43deb10256901", null ],
+    [ "matches_change", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#a9525ffd3d1d154e5261e1495412d6dc1", null ],
+    [ "received_change", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#ab7d73d69b331ec1af19c8f524a4d18d6", null ],
+    [ "received_change", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#a5f5800b08966fc5aa277f31c243f2449", null ],
+    [ "remove_change", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#a5350dc6e205dfc7dc946472d92e4ff3a", null ],
+    [ "remove_change", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#a9b4cb8b7a29d98c6dad074cb9d9441ca", null ],
+    [ "remove_change", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#a6e47dc7274f7d6fe2d7a6866bbb33b8a", null ],
+    [ "remove_change_nts", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#a779b397753bb741f2fa2ffd541545b51", null ],
+    [ "remove_change_nts", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#a2cd7bec8e4c052b96df3f7a0f3c545e0", null ],
+    [ "remove_changes_with_guid", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#aa146e2f08c709b0168d72bb22f719cf2", null ],
+    [ "remove_changes_with_pred", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#aad5de19427845a6017b3606fb0ee8ad4", null ],
+    [ "remove_fragmented_changes_until", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#ac2dded455888914827b036debe71d3b8", null ],
+    [ "writer_unmatched", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#a9c050b5b7b69f2fc44d71cca705e1a10", null ],
+    [ "writer_update_its_ownership_strength_nts", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#a594eefe284f96f05eec1edde14f75151", null ],
+    [ "RTPSReader", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#ad882f5c15e93fac0d55e0fe54f358160", null ],
+    [ "mp_reader", "classeprosima_1_1fastdds_1_1rtps_1_1_reader_history.html#ab2cbfacde0aa72d2dd59d34d7fadca99", null ]
+];

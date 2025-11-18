@@ -1,0 +1,5 @@
+<map id="DataWriterQos" name="DataWriterQos">
+<area shape="rect" id="Node000001" title="Class DataWriterQos, containing all the possible Qos that can be set for a determined DataWriter." alt="" coords="5,5,124,31"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1statistics_1_1dds_1_1_data_writer_qos.html" title="Class DataWriterQos: extends standard DDS DataWriterQos class to include specific default constructor..." alt="" coords="5,79,124,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,44,67,79,62,79,62,44"/>
+</map>

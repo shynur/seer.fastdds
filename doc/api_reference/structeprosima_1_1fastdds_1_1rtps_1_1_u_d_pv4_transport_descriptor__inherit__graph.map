@@ -1,0 +1,11 @@
+<map id="UDPv4TransportDescriptor" name="UDPv4TransportDescriptor">
+<area shape="rect" id="Node000001" title="UDPv4 Transport configuration The kind value for UDPv4TransportDescriptor is given by eprosima::fastd..." alt="" coords="16,299,209,324"/>
+<area shape="rect" id="Node000002" href="$structeprosima_1_1fastdds_1_1rtps_1_1_u_d_p_transport_descriptor.html" title="UDP Transport configuration." alt="" coords="24,225,201,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,264,115,299,110,299,110,264"/>
+<area shape="rect" id="Node000003" href="$structeprosima_1_1fastdds_1_1rtps_1_1_socket_transport_descriptor.html" title="Virtual base class for the data type used to define configuration of transports using sockets." alt="" coords="17,152,209,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,191,115,225,110,225,110,191"/>
+<area shape="rect" id="Node000004" href="$classeprosima_1_1fastdds_1_1rtps_1_1_port_based_transport_descriptor.html" title="Base class for all port based transport descriptors." alt="" coords="5,79,220,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,118,115,152,110,152,110,118"/>
+<area shape="rect" id="Node000005" href="$structeprosima_1_1fastdds_1_1rtps_1_1_transport_descriptor_interface.html" title="Virtual base class for the data type used to define transport configuration." alt="" coords="9,5,216,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="115,44,115,79,110,79,110,44"/>
+</map>

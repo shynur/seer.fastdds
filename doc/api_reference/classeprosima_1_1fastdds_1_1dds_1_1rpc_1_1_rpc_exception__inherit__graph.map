@@ -1,0 +1,23 @@
+<map id="RpcException" name="RpcException">
+<area shape="rect" id="Node000001" title="Base class for all exceptions thrown by the RPC API." alt="" coords="5,104,116,129"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_broken_pipe_exception.html" title="Exception thrown by the RPC API when the communication with the remote endpoint breaks." alt="" coords="175,5,358,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,92,120,65,163,40,195,28,196,33,165,44,123,69,88,97"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_feed_cancelled_exception.html" title="Exception thrown by the RPC API when the client cancels an input feed." alt="" coords="164,55,369,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,98,163,89,211,77,212,83,165,94,126,103"/>
+<area shape="rect" id="Node000004" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_operation_error.html" title="Base class for exceptions thrown by the RPC API when the server communicates an error." alt="" coords="196,104,337,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="130,114,196,114,196,119,130,119"/>
+<area shape="rect" id="Node000005" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_remote_exception.html" title="Base class for exceptions that map to a RpcExceptionCode_t." alt="" coords="186,153,347,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="128,130,213,151,212,156,127,135"/>
+<area shape="rect" id="Node000011" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_timeout_exception.html" title="Exception thrown by the RPC API when an operation times out." alt="" coords="185,203,349,228"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="88,136,123,163,165,188,200,200,198,205,163,192,120,168,85,141"/>
+<area shape="rect" id="Node000006" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_invalid_argument_error.html" title="Exception thrown by the RPC API when the server reports invalid arguments." alt="" coords="426,55,638,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="352,146,368,138,382,127,391,114,400,101,416,89,443,78,445,83,419,94,404,105,395,117,386,130,371,143,354,151"/>
+<area shape="rect" id="Node000007" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_out_of_resources_error.html" title="Exception thrown by the RPC API when the server reports out of resources." alt="" coords="427,104,637,129"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="348,148,462,127,463,132,349,153"/>
+<area shape="rect" id="Node000008" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_unknown_exception_error.html" title="Exception thrown by the RPC API when the service implementation raises an unspecified exception." alt="" coords="417,153,647,179"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="361,163,417,163,417,169,361,169"/>
+<area shape="rect" id="Node000009" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_unknown_operation_error.html" title="Exception thrown by the RPC API when the server does not recognize the invoked operation." alt="" coords="417,203,647,228"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="349,179,463,200,462,205,348,184"/>
+<area shape="rect" id="Node000010" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_unsupported_error.html" title="Exception thrown by the RPC API when the server reports an unsupported operation." alt="" coords="439,252,625,277"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="357,181,371,188,386,200,395,213,404,226,419,237,449,250,446,254,416,242,400,229,391,216,382,204,368,192,355,186"/>
+</map>

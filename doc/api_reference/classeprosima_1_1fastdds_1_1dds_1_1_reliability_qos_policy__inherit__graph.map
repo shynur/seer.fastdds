@@ -1,0 +1,7 @@
+<map id="ReliabilityQosPolicy" name="ReliabilityQosPolicy">
+<area shape="rect" id="Node000001" title="Indicates the reliability of the endpoint." alt="" coords="39,79,191,104"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_parameter__t.html" title="Base Parameter class with parameter PID and parameter length in bytes." alt="" coords="5,5,107,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,40,107,77,103,80,72,43"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1dds_1_1_qos_policy.html" title="Class QosPolicy, base for all QoS policies defined for Writers and Readers." alt="" coords="131,5,218,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,43,126,80,122,77,154,40"/>
+</map>

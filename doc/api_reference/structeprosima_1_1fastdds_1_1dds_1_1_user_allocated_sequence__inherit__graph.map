@@ -1,0 +1,5 @@
+<map id="UserAllocatedSequence" name="UserAllocatedSequence">
+<area shape="rect" id="Node000001" title="A collection of generic opaque pointers allocated by the user." alt="" coords="5,79,181,104"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_loanable_collection.html" title="A collection of generic opaque pointers that can receive the buffer from outside (loan)." alt="" coords="20,5,167,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,44,96,79,91,79,91,44"/>
+</map>

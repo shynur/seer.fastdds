@@ -1,0 +1,15 @@
+<map id="DomainEntity" name="DomainEntity">
+<area shape="rect" id="Node000001" title="The DomainEntity class is a subclass of Entity created in order to differentiate between DomainPartic..." alt="" coords="231,79,342,104"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1dds_1_1_data_reader.html" title="Class DataReader, contains the actual implementation of the behaviour of the Subscriber." alt="" coords="5,152,104,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,110,93,154,91,149,236,105"/>
+<area shape="rect" id="Node000004" href="$classeprosima_1_1fastdds_1_1dds_1_1_data_writer.html" title="Class DataWriter, contains the actual implementation of the behaviour of the DataWriter." alt="" coords="128,152,221,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="258,114,194,154,192,150,255,109"/>
+<area shape="rect" id="Node000005" href="$classeprosima_1_1fastdds_1_1dds_1_1_publisher.html" title="Class Publisher, used to send data to associated subscribers." alt="" coords="245,152,328,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="289,118,289,152,284,152,284,118"/>
+<area shape="rect" id="Node000006" href="$classeprosima_1_1fastdds_1_1dds_1_1_subscriber.html" title="Class Subscriber, contains the public API that allows the user to control the reception of messages." alt="" coords="352,152,443,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="317,109,381,150,378,154,315,114"/>
+<area shape="rect" id="Node000007" href="$classeprosima_1_1fastdds_1_1dds_1_1_topic.html" title="Class Topic, represents the fact that both publications and subscriptions are tied to a single data&#45;t..." alt="" coords="467,152,522,177"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="334,106,468,152,466,157,332,111"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_entity.html" title="The Entity class is the abstract base class for all the objects that support QoS policies,..." alt="" coords="257,5,317,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,44,289,79,284,79,284,44"/>
+</map>

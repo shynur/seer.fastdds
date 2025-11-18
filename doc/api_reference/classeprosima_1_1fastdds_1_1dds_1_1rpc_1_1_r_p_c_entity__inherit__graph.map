@@ -1,0 +1,9 @@
+<map id="RPCEntity" name="RPCEntity">
+<area shape="rect" id="Node000001" title="Abstract base class for all RPC Objects." alt="" coords="99,5,185,31"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_replier.html" title="Base class for a Replier in the RPC communication." alt="" coords="5,79,73,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,41,58,81,55,76,113,36"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_requester.html" title="Base class for a Requester in the RPC communication." alt="" coords="98,79,186,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,44,145,79,139,79,139,44"/>
+<area shape="rect" id="Node000004" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_service.html" title="Base class for a Service in the RPC communication." alt="" coords="211,79,281,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,36,230,76,227,81,169,41"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RpcOperationError" name="RpcOperationError">
+<area shape="rect" id="Node000001" title="Base class for exceptions thrown by the RPC API when the server communicates an error." alt="" coords="5,79,147,104"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_exception.html" title="Base class for all exceptions thrown by the RPC API." alt="" coords="21,5,131,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,44,79,79,73,79,73,44"/>
+</map>

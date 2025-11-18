@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structeprosima_1_1fastdds_1_1dds_1_1_matched_status.html" title="A structure storing a matching status." alt="" coords="5,31,124,56"/>
+<area shape="rect" id="Node000001" href="$structeprosima_1_1fastdds_1_1dds_1_1_publication_matched_status.html" title="A structure storing the publication status." alt="" coords="176,5,367,31"/>
+<area shape="poly" id="edge49_Node000000_Node000001" title=" " alt="" coords="138,32,175,27,176,32,138,37"/>
+<area shape="rect" id="Node000002" href="$structeprosima_1_1fastdds_1_1dds_1_1_subscription_matched_status.html" title="A structure storing the subscription status." alt="" coords="172,55,371,80"/>
+<area shape="poly" id="edge50_Node000000_Node000002" title=" " alt="" coords="138,49,172,53,172,58,138,54"/>
+</map>

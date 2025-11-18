@@ -1,0 +1,7 @@
+<map id="DomainParticipant" name="DomainParticipant">
+<area shape="rect" id="Node000001" title="Class DomainParticipant used to group Publishers and Subscribers into a single working unit." alt="" coords="5,79,148,104"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1statistics_1_1dds_1_1_domain_participant.html" title="Class DomainParticipant: extends standard DDS DomainParticipant class to include specific methods for..." alt="" coords="5,152,148,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="79,118,79,152,74,152,74,118"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_entity.html" title="The Entity class is the abstract base class for all the objects that support QoS policies,..." alt="" coords="47,5,107,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,44,79,79,74,79,74,44"/>
+</map>

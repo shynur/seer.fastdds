@@ -1,0 +1,5 @@
+<map id="MinimalSequenceTypePubSubType" name="MinimalSequenceTypePubSubType">
+<area shape="rect" id="Node000001" title="This class represents the TopicDataType of the type MinimalSequenceType defined by the user in the ID..." alt="" coords="5,79,252,104"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_topic_data_type.html" title="Class TopicDataType used to provide the DomainRTPSParticipant with the methods to serialize,..." alt="" coords="71,5,187,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,44,131,79,126,79,126,44"/>
+</map>

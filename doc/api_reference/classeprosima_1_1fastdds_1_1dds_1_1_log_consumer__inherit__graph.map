@@ -1,0 +1,11 @@
+<map id="LogConsumer" name="LogConsumer">
+<area shape="rect" id="Node000001" title="Consumes a log entry to output it somewhere." alt="" coords="151,5,261,31"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_o_stream_consumer.html" title=" " alt="" coords="133,79,279,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,44,209,79,203,79,203,44"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1dds_1_1_file_consumer.html" title=" " alt="" coords="5,152,116,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,112,86,154,83,149,169,108"/>
+<area shape="rect" id="Node000004" href="$classeprosima_1_1fastdds_1_1dds_1_1_stdout_consumer.html" title=" " alt="" coords="141,152,271,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="209,118,209,152,203,152,203,118"/>
+<area shape="rect" id="Node000005" href="$classeprosima_1_1fastdds_1_1dds_1_1_stdout_err_consumer.html" title=" " alt="" coords="296,152,444,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="246,107,344,149,342,154,244,112"/>
+</map>

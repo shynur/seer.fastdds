@@ -1,0 +1,5 @@
+<map id="Locator_t" name="Locator_t">
+<area shape="rect" id="Node000001" title="Class Locator_t, uniquely identifies a communication channel for a particular transport." alt="" coords="31,5,114,31"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1rtps_1_1_locator_with_mask.html" title="A Locator with a mask that defines the number of significant bits of its address." alt="" coords="5,79,140,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,44,75,79,70,79,70,44"/>
+</map>

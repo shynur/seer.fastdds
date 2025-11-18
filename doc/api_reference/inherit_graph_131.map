@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classeprosima_1_1fastdds_1_1dds_1_1_loanable_collection.html" title="A collection of generic opaque pointers that can receive the buffer from outside (loan)." alt="" coords="5,77,152,102"/>
+<area shape="rect" id="Node000001" href="$classeprosima_1_1fastdds_1_1dds_1_1_loanable_typed_collection.html" title=" " alt="" coords="201,5,385,45"/>
+<area shape="poly" id="edge37_Node000000_Node000001" title=" " alt="" coords="135,70,225,43,226,48,136,75"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_loanable_typed_collection.html" title="A type&#45;safe accessible collection of generic opaque pointers that can receive the buffer from outside..." alt="" coords="200,69,387,109"/>
+<area shape="poly" id="edge38_Node000000_Node000002" title=" " alt="" coords="166,87,200,87,200,92,166,92"/>
+<area shape="rect" id="Node000005" href="$structeprosima_1_1fastdds_1_1dds_1_1_user_allocated_sequence.html" title="A collection of generic opaque pointers allocated by the user." alt="" coords="205,134,381,159"/>
+<area shape="poly" id="edge41_Node000000_Node000005" title=" " alt="" coords="141,103,246,131,244,137,140,108"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1dds_1_1_loanable_sequence.html" title="A type&#45;safe, ordered collection of elements that can receive the buffer from outside (loan)." alt="" coords="441,37,611,77"/>
+<area shape="poly" id="edge39_Node000002_Node000003" title=" " alt="" coords="400,72,440,66,441,72,401,77"/>
+<area shape="rect" id="Node000004" href="$structeprosima_1_1fastdds_1_1dds_1_1_stack_allocated_sequence.html" title="A type&#45;safe, ordered collection of elements allocated on the stack." alt="" coords="435,101,617,141"/>
+<area shape="poly" id="edge40_Node000002_Node000004" title=" " alt="" coords="401,101,435,106,434,111,400,107"/>
+</map>

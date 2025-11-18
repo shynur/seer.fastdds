@@ -1,0 +1,5 @@
+<map id="LoanableArray&lt; T, num_items &gt;" name="LoanableArray&lt; T, num_items &gt;">
+<area shape="rect" id="Node000001" title="A type&#45;safe, ordered collection of elements allocated on the stack, which can be loaned to a Loanable..." alt="" coords="5,79,181,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="6,5,181,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,44,96,79,91,79,91,44"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GenericDataQosPolicy" name="GenericDataQosPolicy">
+<area shape="rect" id="Node000001" title="Class GenericDataQosPolicy, base class to transmit user data during the discovery phase." alt="" coords="91,93,258,119"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_parameter__t.html" title="Base Parameter class with parameter PID and parameter length in bytes." alt="" coords="5,13,107,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,44,159,91,156,95,84,48"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1dds_1_1_qos_policy.html" title="Class QosPolicy, base for all QoS policies defined for Writers and Readers." alt="" coords="131,13,218,38"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,52,177,93,172,93,172,52"/>
+<area shape="rect" id="Node000004" href="$classeprosima_1_1fastdds_1_1_resource_limited_vector.html" title=" " alt="" coords="242,5,417,45"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="281,54,199,96,196,91,279,49"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Endpoint" name="Endpoint">
+<area shape="rect" id="Node000001" title="Class Endpoint, all entities of the RTPS network derive from this class." alt="" coords="76,5,155,31"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1rtps_1_1_r_t_p_s_reader.html" title="Class RTPSReader, manages the reception of data from its matched writers." alt="" coords="5,79,105,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,43,67,80,63,77,95,40"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1rtps_1_1_r_t_p_s_writer.html" title="Class RTPSWriter, manages the sending of data to the readers." alt="" coords="129,79,224,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,40,169,77,165,80,132,43"/>
+</map>

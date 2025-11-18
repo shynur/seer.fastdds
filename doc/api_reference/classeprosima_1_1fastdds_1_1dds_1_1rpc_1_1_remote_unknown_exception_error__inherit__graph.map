@@ -1,0 +1,7 @@
+<map id="RemoteUnknownExceptionError" name="RemoteUnknownExceptionError">
+<area shape="rect" id="Node000001" title="Exception thrown by the RPC API when the service implementation raises an unspecified exception." alt="" coords="5,152,235,177"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_remote_exception.html" title="Base class for exceptions that map to a RpcExceptionCode_t." alt="" coords="39,79,201,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,118,123,152,117,152,117,118"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_exception.html" title="Base class for all exceptions thrown by the RPC API." alt="" coords="65,5,175,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,44,123,79,117,79,117,44"/>
+</map>

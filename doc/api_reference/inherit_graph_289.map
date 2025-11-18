@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structeprosima_1_1fastdds_1_1rtps_1_1_transport_descriptor_interface.html" title="Virtual base class for the data type used to define transport configuration." alt="" coords="5,32,212,57"/>
+<area shape="rect" id="Node000001" href="$structeprosima_1_1fastdds_1_1rtps_1_1_chaining_transport_descriptor.html" title="Base class for the descriptors of chaining transports." alt="" coords="264,7,471,32"/>
+<area shape="poly" id="edge243_Node000000_Node000001" title=" " alt="" coords="226,31,264,27,264,32,226,36"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1rtps_1_1_port_based_transport_descriptor.html" title="Base class for all port based transport descriptors." alt="" coords="260,56,475,81"/>
+<area shape="poly" id="edge244_Node000000_Node000002" title=" " alt="" coords="226,53,260,56,259,61,226,58"/>
+<area shape="rect" id="Node000003" href="$structeprosima_1_1fastdds_1_1rtps_1_1_shared_mem_transport_descriptor.html" title="Shared memory transport configuration." alt="" coords="523,19,749,44"/>
+<area shape="poly" id="edge245_Node000002_Node000003" title=" " alt="" coords="472,51,544,41,544,47,473,57"/>
+<area shape="rect" id="Node000005" href="$structeprosima_1_1fastdds_1_1rtps_1_1_socket_transport_descriptor.html" title="Virtual base class for the data type used to define configuration of transports using sockets." alt="" coords="540,80,732,105"/>
+<area shape="poly" id="edge247_Node000002_Node000005" title=" " alt="" coords="489,77,540,81,540,87,488,82"/>
+<area shape="rect" id="Node000004" href="$structeprosima_1_1fastdds_1_1rtps_1_1test___shared_mem_transport_descriptor.html" title="Shared memory transport configuration." alt="" coords="797,5,1056,31"/>
+<area shape="poly" id="edge246_Node000003_Node000004" title=" " alt="" coords="763,23,797,21,797,27,763,28"/>
+<area shape="rect" id="Node000006" href="$structeprosima_1_1fastdds_1_1rtps_1_1_t_c_p_transport_descriptor.html" title="TCP Transport configuration." alt="" coords="840,55,1013,80"/>
+<area shape="poly" id="edge248_Node000005_Node000006" title=" " alt="" coords="745,80,840,72,840,78,746,86"/>
+<area shape="rect" id="Node000009" href="$structeprosima_1_1fastdds_1_1rtps_1_1_u_d_p_transport_descriptor.html" title="UDP Transport configuration." alt="" coords="838,104,1015,129"/>
+<area shape="poly" id="edge251_Node000005_Node000009" title=" " alt="" coords="746,99,838,107,838,112,745,104"/>
+<area shape="rect" id="Node000012" href="$structeprosima_1_1fastdds_1_1rtps_1_1test___u_d_pv4_transport_descriptor.html" title="UDP v4 Test Transport configuration." alt="" coords="814,153,1039,179"/>
+<area shape="poly" id="edge254_Node000005_Node000012" title=" " alt="" coords="689,107,798,138,855,151,854,156,797,143,688,112"/>
+<area shape="rect" id="Node000007" href="$structeprosima_1_1fastdds_1_1rtps_1_1_t_c_pv4_transport_descriptor.html" title="TCPv4 Transport configuration." alt="" coords="1106,5,1295,31"/>
+<area shape="poly" id="edge249_Node000006_Node000007" title=" " alt="" coords="1011,50,1129,28,1130,33,1012,55"/>
+<area shape="rect" id="Node000008" href="$structeprosima_1_1fastdds_1_1rtps_1_1_t_c_pv6_transport_descriptor.html" title="TCPv6 Transport configuration The kind value for TCPv6TransportDescriptor is given by eprosima::fastd..." alt="" coords="1106,55,1295,80"/>
+<area shape="poly" id="edge250_Node000006_Node000008" title=" " alt="" coords="1027,65,1106,65,1106,70,1027,70"/>
+<area shape="rect" id="Node000010" href="$structeprosima_1_1fastdds_1_1rtps_1_1_u_d_pv4_transport_descriptor.html" title="UDPv4 Transport configuration The kind value for UDPv4TransportDescriptor is given by eprosima::fastd..." alt="" coords="1104,104,1297,129"/>
+<area shape="poly" id="edge252_Node000009_Node000010" title=" " alt="" coords="1029,114,1104,114,1104,119,1029,119"/>
+<area shape="rect" id="Node000011" href="$structeprosima_1_1fastdds_1_1rtps_1_1_u_d_pv6_transport_descriptor.html" title="UDPv6 Transport configuration The kind value for UDPv6TransportDescriptor is given by eprosima::fastd..." alt="" coords="1104,153,1297,179"/>
+<area shape="poly" id="edge253_Node000009_Node000011" title=" " alt="" coords="1012,129,1130,151,1129,156,1011,134"/>
+</map>

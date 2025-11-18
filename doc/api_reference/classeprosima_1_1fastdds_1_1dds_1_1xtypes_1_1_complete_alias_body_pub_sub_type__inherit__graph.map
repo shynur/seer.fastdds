@@ -1,0 +1,5 @@
+<map id="CompleteAliasBodyPubSubType" name="CompleteAliasBodyPubSubType">
+<area shape="rect" id="Node000001" title="This class represents the TopicDataType of the type CompleteAliasBody defined by the user in the IDL ..." alt="" coords="5,79,233,104"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_topic_data_type.html" title="Class TopicDataType used to provide the DomainRTPSParticipant with the methods to serialize,..." alt="" coords="61,5,177,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,44,122,79,117,79,117,44"/>
+</map>

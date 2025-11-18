@@ -1,0 +1,7 @@
+<map id="LocatorsIterator" name="LocatorsIterator">
+<area shape="rect" id="Node000001" title="Provides a Locator&#39;s iterator interface that can be used by different Locator&#39;s containers." alt="" coords="27,5,153,31"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1rtps_1_1_locator_selector_1_1iterator.html" title=" " alt="" coords="5,79,76,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,44,51,80,46,77,72,41"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1rtps_1_1_locators.html" title="Adapter class that provides a LocatorsIterator interface from a LocatorListConstIterator." alt="" coords="101,79,178,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,41,134,77,129,80,104,44"/>
+</map>

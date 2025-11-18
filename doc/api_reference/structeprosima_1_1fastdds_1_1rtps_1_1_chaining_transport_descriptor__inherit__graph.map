@@ -1,0 +1,5 @@
+<map id="ChainingTransportDescriptor" name="ChainingTransportDescriptor">
+<area shape="rect" id="Node000001" title="Base class for the descriptors of chaining transports." alt="" coords="5,79,212,104"/>
+<area shape="rect" id="Node000002" href="$structeprosima_1_1fastdds_1_1rtps_1_1_transport_descriptor_interface.html" title="Virtual base class for the data type used to define transport configuration." alt="" coords="5,5,212,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,44,111,79,106,79,106,44"/>
+</map>

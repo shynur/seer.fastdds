@@ -1,0 +1,7 @@
+<map id="MatchedStatus" name="MatchedStatus">
+<area shape="rect" id="Node000001" title="A structure storing a matching status." alt="" coords="151,5,269,31"/>
+<area shape="rect" id="Node000002" href="$structeprosima_1_1fastdds_1_1dds_1_1_publication_matched_status.html" title="A structure storing the publication status." alt="" coords="5,79,196,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,40,120,81,117,76,180,36"/>
+<area shape="rect" id="Node000003" href="$structeprosima_1_1fastdds_1_1dds_1_1_subscription_matched_status.html" title="A structure storing the subscription status." alt="" coords="220,79,419,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,36,303,76,300,81,238,40"/>
+</map>

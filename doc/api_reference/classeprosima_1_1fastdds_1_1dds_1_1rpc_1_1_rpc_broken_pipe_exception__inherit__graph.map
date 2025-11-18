@@ -1,0 +1,5 @@
+<map id="RpcBrokenPipeException" name="RpcBrokenPipeException">
+<area shape="rect" id="Node000001" title="Exception thrown by the RPC API when the communication with the remote endpoint breaks." alt="" coords="5,79,188,104"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_exception.html" title="Base class for all exceptions thrown by the RPC API." alt="" coords="41,5,152,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,44,99,79,94,79,94,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LoanableSequence&lt; T, _NonConstEnabler &gt;" name="LoanableSequence&lt; T, _NonConstEnabler &gt;">
+<area shape="rect" id="Node000001" title="A type&#45;safe, ordered collection of elements that can receive the buffer from outside (loan)." alt="" coords="13,167,184,207"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_loanable_typed_collection.html" title="A type&#45;safe accessible collection of generic opaque pointers that can receive the buffer from outside..." alt="" coords="5,79,192,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,133,101,166,96,166,96,133"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1dds_1_1_loanable_collection.html" title="A collection of generic opaque pointers that can receive the buffer from outside (loan)." alt="" coords="25,5,172,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,44,101,79,96,79,96,44"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MinimalMapTypePubSubType" name="MinimalMapTypePubSubType">
+<area shape="rect" id="Node000001" title="This class represents the TopicDataType of the type MinimalMapType defined by the user in the IDL fil..." alt="" coords="5,79,216,104"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_topic_data_type.html" title="Class TopicDataType used to provide the DomainRTPSParticipant with the methods to serialize,..." alt="" coords="53,5,169,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,44,113,79,108,79,108,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DataReaderQos" name="DataReaderQos">
+<area shape="rect" id="Node000001" title="Class DataReaderQos, containing all the possible Qos that can be set for a determined DataReader." alt="" coords="104,5,228,31"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1statistics_1_1dds_1_1_data_reader_qos.html" title="Class DataReaderQos: extends standard DDS DataReaderQos class to include specific default constructor..." alt="" coords="5,79,129,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,41,85,81,82,76,138,36"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1statistics_1_1dds_1_1_monitor_service_data_reader_qos.html" title="Class MonitorServiceDataReaderQos: extends standard DDS DataReaderQos class to include specific defau..." alt="" coords="153,79,376,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,36,250,76,247,81,191,41"/>
+</map>

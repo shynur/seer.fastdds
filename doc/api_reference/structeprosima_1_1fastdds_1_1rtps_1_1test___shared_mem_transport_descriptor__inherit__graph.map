@@ -1,0 +1,9 @@
+<map id="test_SharedMemTransportDescriptor" name="test_SharedMemTransportDescriptor">
+<area shape="rect" id="Node000001" title="Shared memory transport configuration." alt="" coords="5,225,264,251"/>
+<area shape="rect" id="Node000002" href="$structeprosima_1_1fastdds_1_1rtps_1_1_shared_mem_transport_descriptor.html" title="Shared memory transport configuration." alt="" coords="21,152,248,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,191,137,225,132,225,132,191"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1rtps_1_1_port_based_transport_descriptor.html" title="Base class for all port based transport descriptors." alt="" coords="27,79,242,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="137,118,137,152,132,152,132,118"/>
+<area shape="rect" id="Node000004" href="$structeprosima_1_1fastdds_1_1rtps_1_1_transport_descriptor_interface.html" title="Virtual base class for the data type used to define transport configuration." alt="" coords="31,5,238,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="137,44,137,79,132,79,132,44"/>
+</map>

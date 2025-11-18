@@ -1,0 +1,5 @@
+<map id="CommonBitflagPubSubType" name="CommonBitflagPubSubType">
+<area shape="rect" id="Node000001" title="This class represents the TopicDataType of the type CommonBitflag defined by the user in the IDL file..." alt="" coords="5,79,207,104"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_topic_data_type.html" title="Class TopicDataType used to provide the DomainRTPSParticipant with the methods to serialize,..." alt="" coords="48,5,164,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,44,109,79,103,79,103,44"/>
+</map>

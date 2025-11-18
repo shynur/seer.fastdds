@@ -1,0 +1,35 @@
+var namespaceeprosima_1_1fastdds_1_1dds_1_1rpc =
+[
+    [ "RemoteInvalidArgumentError", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_invalid_argument_error.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_invalid_argument_error" ],
+    [ "RemoteOutOfResourcesError", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_out_of_resources_error.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_out_of_resources_error" ],
+    [ "RemoteUnknownExceptionError", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_unknown_exception_error.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_unknown_exception_error" ],
+    [ "RemoteUnknownOperationError", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_unknown_operation_error.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_unknown_operation_error" ],
+    [ "RemoteUnsupportedError", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_unsupported_error.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_remote_unsupported_error" ],
+    [ "Replier", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_replier.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_replier" ],
+    [ "Requester", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_requester.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_requester" ],
+    [ "RpcBrokenPipeException", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_broken_pipe_exception.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_broken_pipe_exception" ],
+    [ "RpcClientReader", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_client_reader.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_client_reader" ],
+    [ "RpcClientWriter", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_client_writer.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_client_writer" ],
+    [ "RPCEntity", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_r_p_c_entity.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_r_p_c_entity" ],
+    [ "RpcException", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_exception.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_exception" ],
+    [ "RpcFeedCancelledException", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_feed_cancelled_exception.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_feed_cancelled_exception" ],
+    [ "RpcOperationError", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_operation_error.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_operation_error" ],
+    [ "RpcRemoteException", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_remote_exception.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_remote_exception" ],
+    [ "RpcServerReader", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_server_reader.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_server_reader" ],
+    [ "RpcServerWriter", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_server_writer.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_server_writer" ],
+    [ "RpcTimeoutException", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_timeout_exception.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_timeout_exception" ],
+    [ "Service", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_service.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_service" ],
+    [ "ServiceTypeSupport", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_service_type_support.html", "classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_service_type_support" ],
+    [ "RequestInfo", "namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#aabdee19e54fb45e2d41c4ce1923147b0", null ],
+    [ "RpcFuture", "namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#a9e42eb0d14f6d583b5fdeaea5256cb9c", null ],
+    [ "RpcStatusCode", "namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#aa2462955b670d5ca1f017379a53f37c4", null ],
+    [ "RemoteExceptionCode_t", "namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#a06bd9971b90eac932d9ea22fe5c1991a", [
+      [ "REMOTE_EX_OK", "namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#a06bd9971b90eac932d9ea22fe5c1991aa906269d0dad1044e21e75cdffc6cca04", null ],
+      [ "REMOTE_EX_UNSUPPORTED", "namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#a06bd9971b90eac932d9ea22fe5c1991aac1b7fe1c67d7ef2972fc385331cdfcbb", null ],
+      [ "REMOTE_EX_INVALID_ARGUMENT", "namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#a06bd9971b90eac932d9ea22fe5c1991aaefaa377c147b8a5380790163e6a2473d", null ],
+      [ "REMOTE_EX_OUT_OF_RESOURCES", "namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#a06bd9971b90eac932d9ea22fe5c1991aa89c0120f98946baedb3ad8bd627f37a7", null ],
+      [ "REMOTE_EX_UNKNOWN_OPERATION", "namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#a06bd9971b90eac932d9ea22fe5c1991aa98d1d766051c33398411457f4dfcc3ad", null ],
+      [ "REMOTE_EX_UNKNOWN_EXCEPTION", "namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#a06bd9971b90eac932d9ea22fe5c1991aa24af3d7a637f07209ae2fb5a8bd9b1ce", null ]
+    ] ],
+    [ "RPC_STATUS_CODE_OK", "namespaceeprosima_1_1fastdds_1_1dds_1_1rpc.html#aa95e8b2bd29e322f41156821a26be111", null ]
+];

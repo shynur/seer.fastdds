@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classeprosima_1_1fastdds_1_1dds_1_1_data_reader_qos.html" title="Class DataReaderQos, containing all the possible Qos that can be set for a determined DataReader." alt="" coords="5,31,129,56"/>
+<area shape="rect" id="Node000001" href="$classeprosima_1_1fastdds_1_1statistics_1_1dds_1_1_data_reader_qos.html" title="Class DataReaderQos: extends standard DDS DataReaderQos class to include specific default constructor..." alt="" coords="227,5,351,31"/>
+<area shape="poly" id="edge11_Node000000_Node000001" title=" " alt="" coords="143,32,226,22,227,28,143,37"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1statistics_1_1dds_1_1_monitor_service_data_reader_qos.html" title="Class MonitorServiceDataReaderQos: extends standard DDS DataReaderQos class to include specific defau..." alt="" coords="177,55,400,80"/>
+<area shape="poly" id="edge12_Node000000_Node000002" title=" " alt="" coords="143,49,177,53,177,58,143,54"/>
+</map>

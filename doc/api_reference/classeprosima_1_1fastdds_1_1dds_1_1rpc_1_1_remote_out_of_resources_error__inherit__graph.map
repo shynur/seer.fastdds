@@ -1,0 +1,7 @@
+<map id="RemoteOutOfResourcesError" name="RemoteOutOfResourcesError">
+<area shape="rect" id="Node000001" title="Exception thrown by the RPC API when the server reports out of resources." alt="" coords="5,152,215,177"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_remote_exception.html" title="Base class for exceptions that map to a RpcExceptionCode_t." alt="" coords="29,79,191,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,118,113,152,107,152,107,118"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_exception.html" title="Base class for all exceptions thrown by the RPC API." alt="" coords="55,5,165,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,44,113,79,107,79,107,44"/>
+</map>

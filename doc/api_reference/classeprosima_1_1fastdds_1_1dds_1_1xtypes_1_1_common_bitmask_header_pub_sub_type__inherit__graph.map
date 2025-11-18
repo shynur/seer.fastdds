@@ -1,0 +1,5 @@
+<map id="CommonBitmaskHeaderPubSubType" name="CommonBitmaskHeaderPubSubType">
+<area shape="rect" id="Node000001" title="This class represents the TopicDataType of the type CommonBitmaskHeader defined by the user in the ID..." alt="" coords="5,79,265,104"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_topic_data_type.html" title="Class TopicDataType used to provide the DomainRTPSParticipant with the methods to serialize,..." alt="" coords="77,5,193,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,44,138,79,133,79,133,44"/>
+</map>

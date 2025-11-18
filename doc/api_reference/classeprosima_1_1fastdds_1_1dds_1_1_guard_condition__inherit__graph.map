@@ -1,0 +1,5 @@
+<map id="GuardCondition" name="GuardCondition">
+<area shape="rect" id="Node000001" title="The GuardCondition class is a specific Condition whose trigger_value is completely under the control ..." alt="" coords="5,79,128,104"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_condition.html" title="The Condition class is the root base class for all the conditions that may be attached to a WaitSet." alt="" coords="25,5,109,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,44,69,79,64,79,64,44"/>
+</map>

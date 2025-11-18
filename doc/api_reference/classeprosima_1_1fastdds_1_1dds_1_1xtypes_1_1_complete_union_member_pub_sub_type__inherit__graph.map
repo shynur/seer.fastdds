@@ -1,0 +1,5 @@
+<map id="CompleteUnionMemberPubSubType" name="CompleteUnionMemberPubSubType">
+<area shape="rect" id="Node000001" title="This class represents the TopicDataType of the type CompleteUnionMember defined by the user in the ID..." alt="" coords="5,79,260,104"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_topic_data_type.html" title="Class TopicDataType used to provide the DomainRTPSParticipant with the methods to serialize,..." alt="" coords="75,5,191,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,44,135,79,130,79,130,44"/>
+</map>

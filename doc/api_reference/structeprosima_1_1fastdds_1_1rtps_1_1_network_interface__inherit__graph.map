@@ -1,0 +1,9 @@
+<map id="NetworkInterface" name="NetworkInterface">
+<area shape="rect" id="Node000001" title="Structure encapsulating relevant network interface information." alt="" coords="139,5,274,31"/>
+<area shape="rect" id="Node000002" href="$structeprosima_1_1fastdds_1_1rtps_1_1_blocked_network_interface.html" title="Structure extending NetworkInterface with information specific to blocked interfaces." alt="" coords="5,79,192,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,40,118,81,115,76,177,36"/>
+<area shape="rect" id="Node000003" href="$structeprosima_1_1fastdds_1_1rtps_1_1_network_interface_with_filter.html" title="Structure extending NetworkInterface with netmask filter information." alt="" coords="217,79,415,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,36,300,76,297,81,234,40"/>
+<area shape="rect" id="Node000004" href="$structeprosima_1_1fastdds_1_1rtps_1_1_allowed_network_interface.html" title="Structure extending NetworkInterfaceWithFilter with information specific to allowed interfaces." alt="" coords="223,152,409,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="319,118,319,152,313,152,313,118"/>
+</map>

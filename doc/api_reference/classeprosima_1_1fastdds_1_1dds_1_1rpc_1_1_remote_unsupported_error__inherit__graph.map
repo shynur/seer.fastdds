@@ -1,0 +1,7 @@
+<map id="RemoteUnsupportedError" name="RemoteUnsupportedError">
+<area shape="rect" id="Node000001" title="Exception thrown by the RPC API when the server reports an unsupported operation." alt="" coords="5,152,192,177"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_remote_exception.html" title="Base class for exceptions that map to a RpcExceptionCode_t." alt="" coords="18,79,179,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,118,101,152,96,152,96,118"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1dds_1_1rpc_1_1_rpc_exception.html" title="Base class for all exceptions thrown by the RPC API." alt="" coords="43,5,154,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,44,101,79,96,79,96,44"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TypeInformationPubSubType" name="TypeInformationPubSubType">
+<area shape="rect" id="Node000001" title="This class represents the TopicDataType of the type TypeInformation defined by the user in the IDL fi..." alt="" coords="5,79,212,104"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_topic_data_type.html" title="Class TopicDataType used to provide the DomainRTPSParticipant with the methods to serialize,..." alt="" coords="51,5,167,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,44,111,79,106,79,106,44"/>
+</map>

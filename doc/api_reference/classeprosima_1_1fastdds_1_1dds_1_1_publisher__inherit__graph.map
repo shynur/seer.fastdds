@@ -1,0 +1,7 @@
+<map id="Publisher" name="Publisher">
+<area shape="rect" id="Node000001" title="Class Publisher, used to send data to associated subscribers." alt="" coords="19,152,102,177"/>
+<area shape="rect" id="Node000002" href="$classeprosima_1_1fastdds_1_1dds_1_1_domain_entity.html" title="The DomainEntity class is a subclass of Entity created in order to differentiate between DomainPartic..." alt="" coords="5,79,116,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,118,63,152,58,152,58,118"/>
+<area shape="rect" id="Node000003" href="$classeprosima_1_1fastdds_1_1dds_1_1_entity.html" title="The Entity class is the abstract base class for all the objects that support QoS policies,..." alt="" coords="31,5,91,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="63,44,63,79,58,79,58,44"/>
+</map>
