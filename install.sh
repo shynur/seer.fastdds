@@ -21,7 +21,7 @@ SCRIPT_DIR=`cd -- \`dirname -- $0\`; pwd`
 
 : ${CC:=cc} ${CXX:=c++}
 export CC CXX
-export CFLAGS='-O0 -g0 -Os '$CFLAGS    CXXFLAGS='-Wno-deprecated-literal-operator -O0 -g0 -Os '$CXXFLAGS
+export CFLAGS='-O0 -g0 -Os '$CFLAGS    CXXFLAGS='-O0 -g0 -Os '$CXXFLAGS
 
 export SHYNUR_CMAKE_VARS='-DSECURITY=OFF -DNO_TLS=ON '
 SHYNUR_CMAKE_VARS+=' -DSHM_TRANSPORT_DEFAULT=OFF '  # 默认不使用共享内存通信.
