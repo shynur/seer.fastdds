@@ -21,13 +21,14 @@ SCRIPT_DIR=`cd -- \`dirname -- $0\`; pwd`
 
 : ${CC:=cc} ${CXX:=c++}
 export CC CXX
-export CFLAGS='-O0 -g0 '$CFLAGS    CXXFLAGS='-Wno-deprecated-literal-operator -O0 -g0 '$CXXFLAGS
+export CFLAGS='-O0 -g0 -Os '$CFLAGS    CXXFLAGS='-Wno-deprecated-literal-operator -O0 -g0 -Os '$CXXFLAGS
 
 export SHYNUR_CMAKE_VARS='-DSECURITY=OFF -DNO_TLS=ON '
 SHYNUR_CMAKE_VARS+=' -DSHM_TRANSPORT_DEFAULT=OFF '  # 默认不使用共享内存通信.
 SHYNUR_CMAKE_VARS+=' -DFASTDDS_STATISTICS=OFF -DSTRICT_REALTIME=OFF -DSQLITE3_SUPPORT=OFF '
 SHYNUR_CMAKE_VARS+=' -DLOG_NO_INFO=OFF -DFASTDDS_ENFORCE_LOG_INFO=ON -DLOG_NO_WARNING=OFF '
-SHYNUR_CMAKE_VARS+=' -DLOG_NO_ERROR=OFF -DINTERNAL_DEBUG=ON '
+SHYNUR_CMAKE_VARS+=' -DLOG_NO_ERROR=OFF '
+SHYNUR_CMAKE_VARS+=" -DINTERNAL_DEBUG=${FASTDDS_INTERNAL_DEBUG:=ON} "
 SHYNUR_CMAKE_VARS+=' -DCOMPILE_EXAMPLES=OFF -DINSTALL_EXAMPLES=OFF -DBUILD_DOCUMENTATION=OFF '
 SHYNUR_CMAKE_VARS+=' -DCHECK_DOCUMENTATION=OFF '
 SHYNUR_CMAKE_VARS+=" -DCMAKE_BUILD_TYPE=${CMAKE_BUILD_TYPE:=Debug} -DCMAKE_C_FLAGS='$CFLAGS' -DCMAKE_CXX_FLAGS='$CXXFLAGS' "
@@ -49,7 +50,7 @@ if ! type cmake || [ 3.31 = `cmake --version | head -n 1 | awk '{print $3"\n3.31
 fi
 
 if [ 18.04 = `cat /etc/os-release | grep VERSION_ID | awk -F'"' '{print \$2}'` ]; then
-  if [ -f /usr/local/include/asio.hpp ] && 
+  if [ -f /usr/local/include/asio.hpp ] &&
     [ `$CXX -dM -E /usr/local/include/asio/version.hpp | egrep ASIO_VERSION'[[:space:]]' | awk '{print $3}'` -ge 101202 ]; then
       :
   else
@@ -79,9 +80,6 @@ print_usage()
     echo "   --build-cores               Number of cores used to build. Passed to CMake with -j"
     echo "                               [Defaults: 1]"
     echo
-    echo "GENERAL OPTIONAL ARGUMENTS:"
-    echo "   --install-prefix   [directory]   The installation directory [Defaults: /usr/local]"
-    echo
     exit ${1}
 }
 
@@ -91,7 +89,7 @@ parse_options()
     COMPILE_SHARED_LIBS="TRUE"
     COMPILE_STATIC_LIBS="TRUE"
     SECURITY="ON"
-    INSTALL_PREFIX="/usr/local"
+    INSTALL_PREFIX=${INSTALL_PREFIX:=/usr/local}
     INSTALL_EXAMPLES="OFF"
     BUILD_CORES="1"
 
@@ -100,7 +98,7 @@ parse_options()
         --name 'install.sh' \
         --options h \
         --longoption \
-            help,no-install-dependencies,no-shared-libs,no-static-libs,build-cores:,install-prefix: \
+            help,no-install-dependencies,no-shared-libs,no-static-libs,build-cores: \
         -- "$@")
     then
         print_usage 1
@@ -117,8 +115,6 @@ parse_options()
             --no-shared-libs                ) COMPILE_SHARED_LIBS="FALSE"; shift;;
             --no-static-libs                ) COMPILE_STATIC_LIBS="FALSE"; shift;;
             --build-cores                   ) BUILD_CORES="${2}"; shift 2;;
-            # General optional arguments
-            --install-prefix                ) INSTALL_PREFIX="${2}"; shift 2;;
             # End mark
             -- ) shift; break ;;
             # Wrong args
@@ -162,7 +158,7 @@ main()
     # Determine if apt-get is available
     if [[ ${INSTALL_DEPENDENCIES} == "TRUE" ]]
     then
-        # Install dependencies	
+        # Install dependencies
         apt install --yes --no-install-recommends \
             libssl-dev \
 	    `[ 18.04 != \`cat /etc/os-release | grep VERSION_ID | awk -F'"' '{print \$2}'\` ] && echo libasio-dev` \
@@ -199,7 +195,7 @@ main()
     # Install Fast DDS-Gen
     mkdir -p ${INSTALL_PREFIX}/share/fastddsgen/java
     _SHYNUR_FASTDDSGEN_REPO_PARENT=/tmp/shynur/fastddsgen-$RANDOM/
-    (	
+    (
 	mkdir -p $_SHYNUR_FASTDDSGEN_REPO_PARENT
 	cd $_SHYNUR_FASTDDSGEN_REPO_PARENT
 	git clone https://git.shynur.fun/eProsima/Fast-DDS-Gen
