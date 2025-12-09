@@ -203,7 +203,7 @@ public:
             size_t& current_alignment)
     {
         return calculate_serialized_size(static_cast<uint8_t>(data), current_alignment);
-    }    
+    }
 
     /*!
      * @brief Specific template which calculates the encoded size of an instance of a fixed_string.
@@ -263,8 +263,8 @@ public:
      * @param[inout] current_alignment Current alignment in the encoding.
      * @return Encoded size of the instance.
      */
-    template<class _T, typename std::enable_if<std::is_enum<_T>::value ||
-            std::is_arithmetic<_T>::value>::type* = nullptr>
+    template<class _T, typename std::enable_if<(std::is_enum<_T>::value ||
+            std::is_arithmetic<_T>::value) && !std::is_same<_T, bool>::value>::type* = nullptr>
     size_t calculate_serialized_size(
             const std::vector<_T>& data,
             size_t& current_alignment)

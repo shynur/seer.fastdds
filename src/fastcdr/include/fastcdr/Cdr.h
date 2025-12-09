@@ -754,8 +754,8 @@ public:
      * @return Reference to the eprosima::fastcdr::Cdr object.
      * @exception exception::NotEnoughMemoryException This exception is thrown when trying to serialize a position that exceeds the internal memory size.
      */
-    template<class _T, typename std::enable_if<std::is_enum<_T>::value ||
-            std::is_arithmetic<_T>::value>::type* = nullptr>
+    template<class _T, typename std::enable_if<(std::is_enum<_T>::value ||
+            std::is_arithmetic<_T>::value) && !std::is_same<_T, bool>::value>::type* = nullptr>
     Cdr& serialize(
             const std::vector<_T>& vector_t)
     {
@@ -1628,8 +1628,8 @@ public:
      * @return Reference to the eprosima::fastcdr::Cdr object.
      * @exception exception::NotEnoughMemoryException This exception is thrown when trying to deserialize a position that exceeds the internal memory size.
      */
-    template<class _T, typename std::enable_if<std::is_enum<_T>::value ||
-            std::is_arithmetic<_T>::value>::type* = nullptr>
+    template<class _T, typename std::enable_if<(std::is_enum<_T>::value ||
+            std::is_arithmetic<_T>::value) && !std::is_same<_T, bool>::value>::type* = nullptr>
     Cdr& deserialize(
             std::vector<_T>& vector_t)
     {
