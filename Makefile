@@ -2,11 +2,11 @@ SHELL = /bin/bash -O globstar
 
 .PHONY: shared
 shared:
-	./install.sh --build-cores $$[`nproc`-1||1] --no-static-libs
+	./install.sh --build-cores $$[`nproc`==1?1:`nproc`-1] --no-static-libs
 
 .PHONY: all
 all:
-	./install.sh --build-cores $$[`nproc`-1||1]
+	./install.sh --build-cores $$[`nproc`==1?1:`nproc`-1]
 
 .PHONY: clean
 clean:
