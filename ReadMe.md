@@ -8,5 +8,5 @@
 ## 构建并安装
 
 ```bash
-CFLAGS='-g3 -O3' CXXFLAGS='-g3 -O3' CMAKE_BUILD_TYPE=RelWithDebInfo FASTDDS_INTERNAL_DEBUG=OFF make shared
+CFLAGS=-Og CXXFLAGS=-Og CMAKE_BUILD_TYPE=RelWithDebInfo FASTDDS_INTERNAL_DEBUG=OFF make shared
 ```
